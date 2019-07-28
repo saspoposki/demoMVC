@@ -8,7 +8,7 @@ jobs:
      # build image
      - run: |         
          docker info
-         docker build -t ContosoUniversity -f Dockerfile .
+         docker build -t contosoUuiversity -f Dockerfile .
 
      # deploy the image
      - run: |         
