@@ -1,8 +1,3 @@
-/Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.csproj.CoreCompileInputs.cache
-/Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.RazorAssemblyInfo.cache
-/Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.RazorAssemblyInfo.cs
-/Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.AssemblyInfoInputs.cache
-/Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.AssemblyInfo.cs
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/bin/Debug/netcoreapp2.2/ContosoUniversity.deps.json
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/bin/Debug/netcoreapp2.2/ContosoUniversity.runtimeconfig.json
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/bin/Debug/netcoreapp2.2/ContosoUniversity.runtimeconfig.dev.json
@@ -10,6 +5,11 @@
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/bin/Debug/netcoreapp2.2/ContosoUniversity.pdb
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/bin/Debug/netcoreapp2.2/ContosoUniversity.Views.dll
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/bin/Debug/netcoreapp2.2/ContosoUniversity.Views.pdb
+/Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.csproj.CoreCompileInputs.cache
+/Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.RazorAssemblyInfo.cache
+/Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.RazorAssemblyInfo.cs
+/Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.AssemblyInfoInputs.cache
+/Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.AssemblyInfo.cs
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.TagHelpers.input.cache
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.TagHelpers.output.cache
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.RazorCoreGenerate.cache
@@ -48,4 +48,3 @@
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.dll
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.pdb
 /Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.csproj.CopyComplete
-/Users/sasopoposki/Projects/ContosoUniversity/ContosoUniversity/obj/Debug/netcoreapp2.2/ContosoUniversity.csprojAssemblyReference.cache
