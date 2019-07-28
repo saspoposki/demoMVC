@@ -11,10 +11,10 @@ jobs:
          docker build -t ui630-soposki -f Dockerfile .
 
      # deploy the image
-     - run: |         
-         docker login --username=$HEROKU_USERNAME --password-stdin=$HEROKU_API_KEY registry.heroku.com
+     - run: |     
+         docker login --username=$HEROKU_USERNAME --password=c2501419-433f-47e4-a6e0-05597fa3191e registry.heroku.com
          docker tag ui630-soposki registry.heroku.com/$HEROKU_APP_NAME/web
          docker push registry.heroku.com/$HEROKU_APP_NAME/web                
          curl https://cli-assets.heroku.com/install.sh | sh
          heroku container:release web -a $HEROKU_APP_NAME
-        
+         
