@@ -13,7 +13,7 @@ jobs:
      # deploy the image
      - run: |         
          docker login --username=saso.poposki@valpo.edu --password=b7e1d639-a7d1-46f0-ab36-d5e0b8ed93ec registry.heroku.com
-         docker tag aspnetapp registry.heroku.com/ui630-soposki/web
+         docker tag ui630-soposki registry.heroku.com/ui630-soposki/web
          docker push registry.heroku.com/ui630-soposki/web                
          curl https://cli-assets.heroku.com/install.sh | sh
          heroku container:release web -a ui630-soposki
